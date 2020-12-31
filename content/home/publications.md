@@ -9,7 +9,7 @@ weight = 90  # Order that this section will appear.
 
 #widget:publication
 
-title = "Working Papers"
+title = "Work in Progress"
 subtitle = ""
 
 [content]
